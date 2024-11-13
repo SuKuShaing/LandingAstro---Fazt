@@ -1,7 +1,10 @@
 # Landing del tutorial
 
-Siguiendo el tutorial de Fazt
+Siguiendo el tutorial de Fazt desde el minuto 2:19:27
 https://youtu.be/sOXW0ZnJxbQ?si=f7lNiwBYhhZp2DdR
+
+Primera parte del tutorial
+https://github.com/SuKuShaing/Generador-de-sitios-estaticos-Astro
 
 
 
