@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Encrypted",
+        "description": "All your data is encrypted and secure."
+    },
+    {
+        "title": "Open Source",
+        "description": "The code is open source and available on GitHub."
+    },
+    {
+        "title": "Real-time",
+        "description": "Real-time updates and notifications."
+    },
+    {
+        "title": "Cross-platform",
+        "description": "Access your data from any device."
+    },
+    {
+        "title": "Collaborative",
+        "description": "Work together with your team in real-time."
+    },
+    {
+        "title": "Customizable",
+        "description": "Customize the app to fit your needs."
+    }
+]
