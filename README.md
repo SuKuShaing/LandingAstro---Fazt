@@ -7,7 +7,14 @@ Primera parte del tutorial
 https://github.com/SuKuShaing/Generador-de-sitios-estaticos-Astro
 
 
+## Despliegue a GitHub Pages
+https://www.npmjs.com/package/gh-pages
 
+
+
+
+
+## EPERM: operation not permitted, rmdir
 Con esto se solucionan el error
 ```
 $ npm run build
