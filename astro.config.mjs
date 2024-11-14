@@ -6,5 +6,5 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://SuKuShaing.github.io',
-  base: '/LandingAstro---Fazt',
+  base: 'LandingAstro---Fazt',
 });
