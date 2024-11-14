@@ -1,0 +1,34 @@
+{
+	"projects": [
+		{
+			"title": "Seguridad para la Universidad de Santiago",
+			"description": "proyecto de seguridad para la entrada de estudiantes en la Universidad de Santiago de Chile",
+            "image": "images/FingerPrint.svg"
+		},
+		{
+            "title": "Seguridad para el Santander",
+			"description": "proyecto de seguridad para la entrada de empleados en el Banco Santander",
+            "image": "images/FingerPrint.svg"
+		},
+		{
+			"title": "Seguridad para el Banco de Chile",
+			"description": "proyecto de seguridad para la entrada de empleados en el Banco de Chile",
+            "image": "images/FingerPrint.svg"
+		},
+		{
+			"title": "Seguridad para la farmacéutica AstraZeneca",
+			"description": "proyecto de seguridad para la entrada de empleados en la farmacéutica AstraZeneca",
+            "image": "images/FingerPrint.svg"
+		},
+		{
+			"title": "Seguridad para la farmacéutica Pfizer",
+			"description": "proyecto de seguridad para la entrada de empleados en la farmacéutica Pfizer",
+            "image": "images/FingerPrint.svg"
+		},
+		{
+			"title": "Seguridad para la farmacéutica Roche",
+			"description": "proyecto de seguridad para la entrada de empleados en la farmacéutica Roche",
+			"image": "images/FingerPrint.svg"
+		}
+	]
+}
